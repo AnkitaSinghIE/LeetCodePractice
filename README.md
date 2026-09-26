@@ -13,6 +13,7 @@
 - Day 12 [Students and Examinations Leetcode Solution](https://leetcode.com/problems/students-and-examinations/submissions/1915556961/?envType=study-plan-v2&envId=top-sql-50)
 - Day 13 [Managers with at Least 5 Direct Reports Leetcode Solution](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/?envType=study-plan-v2&envId=top-sql-50)
 - Day 14 [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/?envType=study-plan-v2&envId=top-sql-50)
+- Day 15 [Average Selling Price](https://leetcode.com/problems/average-selling-price/description/?envType=study-plan-v2&envId=top-sql-50)
   
 
 
